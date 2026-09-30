@@ -1,0 +1,139 @@
+<html>
+<head>
+    <title>Computer Science and Engineering</title>
+</head>
+
+<body>
+
+    <h1>Computer Science and Engineering (CSE)</h1>
+
+    <h2>Welcome to CSE</h2>
+
+    <p>
+        Computer Science and Engineering (CSE) is a field that combines computer science
+        with engineering to develop software, applications, computer systems and other
+        technologies. It focuses on understanding how computers work and how technology
+        can be used to solve real-world problems.
+    </p>
+
+    <p>
+        CSE is one of the most rapidly developing fields and plays an important role in
+        areas such as artificial intelligence, cybersecurity, web development, mobile
+        applications, data science, cloud computing, and software engineering.
+    </p>
+
+    <h2>What Do CSE Students Learn?</h2>
+
+    <p>
+        Students studying CSE learn programming languages, computer networks, databases,
+        data structures, algorithms, operating systems, software development,
+        and other technologies. Along with technical knowledge, CSE also helps students
+        develop problem-solving, logical thinking, creativity and teamwork skills.
+    </p>
+
+    <h2>Career Opportunities</h2>
+
+    <p>
+        A degree in CSE can lead to many different career opportunities.
+    </p>
+
+    <ul>
+        <li>Software Developer</li>
+        <li>Web Developer</li>
+        <li>Mobile App Developer</li>
+        <li>Data Analyst</li>
+        <li>AI and Machine Learning Engineer</li>
+        <li>Cybersecurity Professional</li>
+        <li>Cloud Engineer</li>
+        <li>Database Administrator</li>
+        <li>Game Administrator</li>
+    </ul>
+
+    <h2>Explore More</h2>
+
+    <p>
+        Learn more about the subjects, skills and career opportunities related to CSE on
+        our CSE Resources page.
+    </p>
+
+    <a href="WEB2.html">Click for more</a>
+
+</body>
+</html>
+
+<html>
+<head>
+    <title>CSE Resources and Useful Links</title>
+</head>
+
+<body>
+
+    <h1>CSE Resources</h1>
+
+    <p>
+        Computer Science and Engineering is a constantly evolving field. To become successful
+        in CSE, students should develop both technical and communication skills.
+        Learning programming, practicing problem-solving, working on projects and keeping up
+        with new technologies can help students build a strong foundation.
+        Students can also use online resources to learn beyond the classroom and explore
+        different areas of computer science according to their interests.
+    </p>
+
+    <h2>Useful Learning Resources</h2>
+
+    <ol>
+        <li>
+            <b>W3Schools</b> - Learn HTML, JavaScript, Python and other programming technologies.<br>
+            <a href="https://www.w3schools.com">CLICK TO ENTER</a>
+        </li>
+
+        <li>
+            <b>GeeksforGeeks</b> - Explore programming concepts, data structures, algorithms
+            and computer science topics.<br>
+            <a href="https://www.geeksforgeeks.org">CLICK TO ENTER</a>
+        </li>
+
+        <li>
+            <b>freeCodeCamp</b> - Practice coding and learn web development through interactive lessons.<br>
+            <a href="https://www.freecodecamp.org">CLICK TO ENTER</a>
+        </li>
+
+        <li>
+            <b>MDN Web Docs</b> - Find detailed documentation and guides for web technologies
+            such as HTML, CSS and JavaScript.<br>
+            <a href="https://developer.mozilla.org">CLICK TO ENTER</a>
+        </li>
+
+        <li>
+            <b>GitHub</b> - Explore coding projects, work with repositories and learn about
+            software development.<br>
+            <a href="https://github.com">CLICK TO ENTER</a>
+        </li>
+    </ol>
+
+    <h2>Important Skills for CSE Students</h2>
+
+    <ol>
+        <li>Programming and coding</li>
+        <li>Logical and analytical thinking</li>
+        <li>Problem-solving</li>
+        <li>Communication</li>
+        <li>Teamwork</li>
+        <li>Time management</li>
+        <li>Creativity and innovation</li>
+        <li>Continuous learning</li>
+    </ol>
+
+    <h2>Conclusion</h2>
+
+    <p>
+        CSE offers students the opportunity to understand technology and use it to create
+        solutions for real-world problems.
+        With regular practice, curiosity and continuous learning, students can develop the
+        skills needed to build a successful career in the technology industry.
+    </p>
+
+    <a href="WEB.html">GO BACK</a>
+
+</body>
+</html>
