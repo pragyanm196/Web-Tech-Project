@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>Web Page with Links</title>
+</head>
+
+<body>
+
+    <p>CLICK THE BELOW LINK TO OPEN GOOGLE</p>
+
+    <a href="https://www.google.com">CLICK TO ENTER</a>
+
+</body>
+</html>
