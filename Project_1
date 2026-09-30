@@ -1,0 +1,49 @@
+<html>
+
+<h1>My Portfolio</h1>
+
+<body>
+
+<b>Name</b> : Pragyan <br>
+
+<br>
+
+<b>Surname</b> : Mishra <br>
+
+<b>Father's Name</b> : Ghanshyam Mishra <br>
+
+<b>Mother's Name</b> : Kumkum Mishra <br>
+
+<br>
+<br>
+
+<b>Age</b> : 17<br>
+
+<br>
+
+<b>A Short Introduction</b> :
+Hi, I am Pragyan, a student of 1st year passionate about app development and programming.
+<br>
+
+I enjoy building practical application.
+
+Learning new technologies, and improving my programming skills through hands on projects.
+<br>
+
+<p><b>Skills</b> :
+1. Programming Languages (C, C++ and Java)<br>
+
+2. WEB development (HTML, CSS and Javascript)<br>
+
+3. App development (MIT App Inventor)<br>
+
+<p><b>Education</b> :-
+<br>
+
+School : Passed 12th from JNV Jamnagar.<br>
+
+College : Persuing Btech CSE from ITM SLS Baroda University.<br>
+
+</body>
+
+</html>
