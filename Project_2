@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>Community Food Drive</title>
+</head>
+
+<body>
+
+    <h1>Community Food Drive</h1>
+
+    <p>Welcome to the Community Food Drive.</p>
+
+    <h2>Why You Should Volunteer</h2>
+
+    <p>
+        You should volunteer because many people do not have enough food to eat every day.
+        By giving a little of your time, you can help families in need and make your community
+        a better place. Your small effort can make a big difference in someone's life and
+        encourage others to help as well.
+    </p>
+
+    <h2>How You Can Help</h2>
+
+    <ul>
+        <li>Donate food items.</li>
+        <li>Volunteer your time.</li>
+        <li>Tell your friends and family about the food drive.</li>
+    </ul>
+
+    <h2>Contact Details</h2>
+
+    <p>Phone: XXXXXX5673</p>
+    <p>Email: abc@gmail.com</p>
+
+    <p>
+        If you would like to volunteer or donate food, please contact us using the
+        details above.
+    </p>
+
+    <p><b>Thank You!</b></p>
+
+</body>
+</html>
